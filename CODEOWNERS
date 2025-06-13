@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Law0804
+/src/backend/database.py      @Law0804
+/src/backend/routers/auth.py  @Law0804
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Law0804
